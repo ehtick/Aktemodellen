@@ -2,14 +2,14 @@
 
 |Product|Omschrijving|
 |---|---|
-|**Stylesheetnummer**|20250501000010 implementatienummer 3|
+|**Stylesheetnummer**|20250501000010 implementatienummer 1|
 |**Release**| 19 mei 2025|
 
 ## Wijzigingen model
 
 |ID|Omschrijving|Oplossing|
 |---|---|---|
-|AA-771 | Nieuwe versie van de stylesheet opgeleverd. Het is nu mogelijk om de akte genderneutraal op te stellen. Tevens zijn er een aantal  Teksblokken aangepast. Hieronder vindt u de details van de aanpassingen.| Modeldocument, Toelichting, Stylesheet en backend controles|
+|AA-7711 | Nieuwe versie van de stylesheet opgeleverd. Het is nu mogelijk om de akte genderneutraal op te stellen. Tevens zijn er een aantal  Teksblokken aangepast. Hieronder vindt u de details van de aanpassingen.| Modeldocument, Toelichting, Stylesheet en backend controles|
 
 ## Wijzigingen tekstblokken
 
