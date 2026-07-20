@@ -41,14 +41,16 @@ Hypotheek Argenta|20250401000025|1|hypotheek_argenta-4.0
  “ |20230524000025|1|hypotheek_argenta-3.0
 Hypotheek ASN|20250601000033|1|hypotheek_asn-2.0.0
  “ |20240601000033|1|hypotheek_asn-1.0.0
-Hypotheek ASR|20260501000020|1|hypotheek_asr-6.0.0
+Hypotheek ASR|20260501000020|1|hypotheek_asr-6.1.0
+ “ |20260501000020|1|hypotheek_asr-6.0.0
  “ |20250201000020|1|hypotheek_asr-5.0.0
  “ |20211015000020|1|hypotheek_asr-4.0.0
 Hypotheek BLG|20250601000014|1|hypotheek_blg-4.0.0
  “ |20190801000014|1|hypotheek_blg-3.0.0
 Hypotheek Credo|20250401000031|1|hypotheek_credo-2.0.0
 “ |20230605000031|1|hypotheek_credo-1.0.0
-Hypotheek ING|20260601000004|1|hypotheek_ing-7.0.0
+Hypotheek ING|20260601000004|1|hypotheek_ing-7.1.0
+ “ |20260601000004|1|hypotheek_ing-7.0.0
  “ |20260301000004|1|hypotheek_ing-6.0.0|05-06-2026
  “ |20250101000004|1|hypotheek_ing-5.0.0
  “ |20190601000004|1|hypotheek_ing-4.0.0

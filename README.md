@@ -8,6 +8,11 @@ KIK staat voor Ketenintegratie Inschrijving Kadaster. KIK-Akten beoogt om snelle
 
 We raden aan om een GitHub Desktop te gebruiken om een lokale kopie te creëren van deze repository. Voordelen hiervan zijn dat de inhoud van de repository lokaal op een eigen bestandssysteem beschikbaar is en tegelijkertijd eenvoudig te synchroniseren is met de hier gepubliceerde kopie. Lees pagina <https://desktop.github.com/> voor details over de GitHub Desktop.
 
+## 20 juli 2026
+In deze release hebben we opgeleverd:
+- Bugfix ASR stylesheetnummer 20260501000020: Het woord "voorts" ontbrak in de vaste tekst bij de hoofdhypotheek. Hiervoor is een nieuw implementatienummer opgeleverd.
+- Bugfix ING stylesheetnummer 20260601000004: In de situatie waarin enkel de Bank aanwezig is (dus zonder Stichting en Verzekeraar) is de partijaanduiding van de Bank verkeerd. Hiervoor is een nieuw implementatienummer opgeleverd.
+
 ## 29 juni 2026
 In deze release hebben we opgeleverd:
 - Voor de ING nieuw stylesheet 20260601000004, gebaseerd op stylesheetnummer 20250101000004, ivm wijziging bankmodel (HYING01).
